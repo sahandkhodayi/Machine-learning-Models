@@ -16,7 +16,7 @@ X = np.array([
     [150, 6, 1]
 ])
 
-# Price in thousands
+
 y = np.array([150, 165, 210, 195, 270, 310, 280, 350, 390, 450])
 def cost(w,b,x):
     
