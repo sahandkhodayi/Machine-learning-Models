@@ -151,6 +151,3 @@ Through this project I explored:
 * Precision & Recall Metrics
 * K-Fold Cross Validation
 
----
-
-> Understanding the mathematics behind machine learning is the first step toward building reliable AI systems.
